@@ -1,0 +1,28 @@
+{
+  "id": "goldenheart",
+  "name": "Golden Heart",
+  "description": "French Minecraft UHC and PvP server with custom game modes.",
+  "addresses": [
+    "golden-heart.fr"
+  ],
+  "primaryAddress": "golden-heart.fr",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#D4AF37",
+  "secondaryColor": "#5C4033",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "UHC"
+  ],
+  "primaryGameType": "UHC",
+  "crossplay": false
+}
